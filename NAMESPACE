@@ -1,0 +1,8 @@
+export(gs, lcmr, identifiability,  simuData, compactMatrix,  ss, probD, corr,mu)
+S3method(print, lcmr)
+S3method(print, gibbs)
+S3method(plot, gibbs)
+S3method(logLik, gibbs)
+S3method(update, gibbs)
+S3method(summary, gibbs)
+S3method(print, summary.gibbs)
